@@ -1,0 +1,60 @@
+body {
+	font-family: Roboto;
+	padding-bottom: 10px;
+}
+
+h1 {
+	font-size: 70px;
+	margin: 0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+     color: #909090; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+input {
+    margin: 0;
+    border-radius: 0;
+    width: 30%;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+button {
+	background: #E03E3B;
+	cursor: pointer;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+}
+
+
+#subBtn {
+    width: 15%;
+    font-size: 14px;
+}
+
+.searchSection {
+	padding: 20px 30px 40px;
+	background-color: #F5F5F5;
+	text-align: center;
+}
+
+.results {
+	padding: 0px 10px;
+}
+
+.navig{
+	font-size: 200%;
+}
+
+#nextBtn {
+	float: right;
+}
